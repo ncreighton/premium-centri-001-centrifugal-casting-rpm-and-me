@@ -1,0 +1,2 @@
+# premium-centri-001-centrifugal-casting-rpm-and-me
+Guessing your centrifugal casting RPM and metal feed rates is costing you failed castings and wasted material. The Centrifugal Casting RPM and Metal Feed Planner eliminates the guesswork with a data-driven Notion system that calculates optimal speeds and feed volumes every single time.  This template gives you a centralized casting operations hub w
